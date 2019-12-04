@@ -37,6 +37,7 @@ namespace ProyecctoExamen.Clases
                 if(esPrimo(num))
                 {
                     suma += num;
+                    cont++;    
                 }
                 num++;
             }
